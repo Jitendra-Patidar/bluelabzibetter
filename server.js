@@ -131,7 +131,7 @@ var SampleApp = function() {
         // });
 
         // self.app.get('/about', 'about.html');
-        self.createRoutes('/about', about.html);
+        // self.createRoutes('/about', about.html);
 
         self.app.configure(function(){
                        //self.app.use(express.cookieParser());
